@@ -1,0 +1,26 @@
+{
+    "name": "link-shortener",
+    "version": "1.2.1",
+    "description": "An easy to use Link shortner module. This module uses the cutt.ly API to shorten your links, you can also add custom titles for your links!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "robertcodez",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "valid-url": "^1.0.9"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RobertCodez1/Link-Shortener"
+    },
+    "keywords": [
+        "url",
+        "url-shortener",
+        "link-shortener",
+        "link",
+        "cuttly"
+    ]
+}
